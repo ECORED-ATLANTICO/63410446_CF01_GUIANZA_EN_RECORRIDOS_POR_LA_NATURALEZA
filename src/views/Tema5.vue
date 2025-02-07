@@ -14,7 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img_1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 En los años 60 comienzan a vislumbrarse impactos desconocidos en las áreas silvestres, producto del uso recreativo comienzan a desarrollarse investigaciones para entender estos impactos de una forma integral, en un comienzo se utilizan modelos que vienen de la ganadería, la agricultura y la ingeniería forestal. Sin embargo, estos profesionales se dan cuenta que es un campo nuevo. Hoy en día la ciencia que estudia los cambios al medio ambiente producto del impacto de las actividades recreativas se denomina: Ecología de la recreación.
+            p.mb-0 En los años 60 comienzan a vislumbrarse impactos desconocidos en las áreas silvestres, producto del uso recreativo comienzan a desarrollarse investigaciones para entender estos impactos de una forma integral, en un comienzo se utilizan modelos que vienen de la ganadería, la agricultura y la ingeniería forestal. Sin embargo, estos profesionales se dan cuenta de que es un campo nuevo. Hoy en día, la ciencia que estudia los cambios al medio ambiente producto del impacto de las actividades recreativas se denomina: Ecología de la recreación.
 
     .bg_img_0.mb-2
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
@@ -27,7 +27,7 @@
           .cajon.bg-1.g_18.mb-3
             .row.mb-4
               .col-lg-12.p-4.ps-5 
-                p Es la disciplina científica que describe los tipos, cantidades y velocidades de cambios ecológicos causados por el uso recreativo, en el campo de la investigación incluye la influencia del mismo uso, el ambiente específico, y factores administrativos en dichos cambios ecológicos.
+                p Es la disciplina científica que describe los tipos, cantidades y velocidades de cambios ecológicos causados por el uso recreativo, en el campo de la investigación, incluye la influencia del mismo uso, el ambiente específico, y factores administrativos en dichos cambios ecológicos.
 
           p La información que proporciona la Ecología Recreativa apoya a los administradores de ASP (áreas silvestres protegidas) de las siguientes maneras: identifica los impactos al recurso causados por la recreación, facilita un entendimiento de las causas específicas y los efectos de los impactos, y fomenta una percepción más acertada para prevenir, mitigar y manejar los impactos al recurso.
           p Por otro lado, los estudios han respaldado la creación de los principios de "No Deje Rastro" como un programa con bases sólidas del estudio a través de décadas y poder ver el comportamiento de los visitantes y sus impactos.
@@ -49,7 +49,7 @@
         figure
           img(src="@/assets/curso/temas/tema5/img_3.png", alt='Imagen Descriptiva').mx-auto
       .col-lg-7.mb-3
-        h4.color-primario Tipos de Impactos al Recurso
+        h4.color-primario Tipos de impactos al recurso
         LineaTiempoD
           row(numero="1" titulo="Vegetación") 
             p Pérdida de cobertura vegetal, cambio en composición de especies (nativas y exóticas).
@@ -99,7 +99,7 @@
           .tarjeta.bg-19
             .p-4
               h5.text-center Impactos de la recuperación
-              p Más vale prevenir los impactos en un principio, que sanar las heridas que produce el uso descuidado, ya que esta recuperación, si es posible, tarda mucho más tiempo que poner en práctica los principios de “No Deje Rastro”. Entonces en la práctica, la estrategia de rotar sitios no está respaldada por la ciencia de la ecología de la recreación, como si funciona en la ganadería y la agricultura. Termina en más áreas con impacto significativo.
+              p Más vale prevenir los impactos en un principio, que sanar las heridas que produce el uso descuidado, ya que esta recuperación, si es posible, tarda mucho más tiempo que poner en práctica los principios de “No Deje Rastro”. Entonces, en la práctica, la estrategia de rotar sitios no está respaldada por la ciencia de la ecología de la recreación, como si funciona en la ganadería y la agricultura. Termina en más áreas con impacto significativo.
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
@@ -108,7 +108,7 @@
             img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .col-lg-12.mb-3
-        p Bajo la normatividad colombiana estos factores de impacto se definen en el Capítulo II, articulo 4 de la ley 1558 de 10 de Julio de 2012 bajo el concepto de:
+        p Bajo la normatividad colombiana, estos factores de impacto se definen en el Capítulo II, artículo 4 de la ley 1558 de 10 de Julio de 2012, bajo el concepto de:
 
       .col-lg-12.mb-2
         .cajon.bg-1.g_18.mb-3
@@ -131,7 +131,7 @@
                 .col-md-12.col-xl-8.mb-4
                   h3.mb-2 Cantidad/frecuencia de uso
 
-                  p Este refiere directamente a "la curva" asintótica de arriba (donde la curva empieza a estabilizarse) es 12 noches de uso en bosques templados. Entonces en frecuencia: ¿va a haber recuperación total entre instancias de uso? o ¿Es que la frecuencia va a crear impactos cumulativos durante el año? Cantidad cuanto es el total de uso por temporada.
+                  p Este refiere directamente a "la curva" asintótica de arriba (donde la curva empieza a estabilizarse) es 12 noches de uso en bosques templados. Entonces en frecuencia: ¿va a haber recuperación total entre instancias de uso? o ¿Es que la frecuencia va a crear impactos cumulativos durante el año? Cantidad cuánto es el total de uso por temporada.
 
             .tarjeta.bg-01.p-2
               .row.justify-content-center.align-items-center.my-lg-4.p-3
@@ -148,8 +148,8 @@
                   figure
                     img(src='@/assets/curso/temas/tema5/img_8.png', alt='Texto que describa la imagen').mx-auto
                 .col-md-12.col-xl-8.mb-4
-                  h3.mb-2 Comportamiento de los visitantes
-                  p ¿Van a aplicar técnicas de impacto mínimo?
+                  h3 Comportamiento de los visitantes
+                  p.mb-0 ¿Van a aplicar técnicas de impacto mínimo?
                   p ¿Llevan anafres o siempre usan fogatas? ¿Vienen en grupos grandes, o viajan en grupo pequeños? ¿Tienen la práctica de cocinar todos juntos, o acampan por grupos de carpa pequeños?
 
             .tarjeta.bg-01.p-2

@@ -27,7 +27,7 @@
               h3.bgr_3.position-relative Definición etimológica
                 img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
-          p Existen diferentes conceptos del origen de la palabra Ecología; se tomarán como base fundamental para iniciar la primera actividad definición etimológica:      
+          p Existen diferentes conceptos del origen de la palabra Ecología; se tomarán como base fundamental para iniciar la primera actividad de definición etimológica:      
         
           .cajon.bg-1.g_18.mb-5
             .row.mb-4
@@ -51,7 +51,7 @@
         .div.mb-3(data-aos="fade-right")
           h3.bgr_3.position-relative Niveles de organización de la ecología 
             img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
-          p.mb-3 La ecología, es la rama de las ciencias biológicas que estudia las relaciones entre los seres vivos y el ambiente que los rodea. A continuación, se presentan los distintos niveles de organización:
+          p.mb-3 La ecología es la rama de las ciencias biológicas que estudia las relaciones entre los seres vivos y el ambiente que los rodea. A continuación, se presentan los distintos niveles de organización:
 
       .col-lg-8.mb-4
         LineaTiempoD
@@ -137,7 +137,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img_6.png')})`}"
             )
             .bloque-texto-g__texto.p-4
-              p.mb-0 <b>Biosfera:</b> son todos lo biomas que hay en el planeta, el mayor ecosistema existente. Constituye una unidad indisociable junto a su entorno. La biosfera es el mayor nivel que alcanza la organización ecológica, es decir, un supra sistema que encierra a sistemas (biomas) de niveles inferiores. A su vez estos últimos incluyen a diversos subsistemas (ecosistemas). <br>La biosfera es la porción de la Tierra (agua, aire y suelo) habitada por plantas, animales y microrganismos. Abarca desde una altura de 10 kilómetros en la atmósfera hasta lo más profundo de los océanos.
+              p.mb-0 <b>Biosfera:</b> son todos los biomas que hay en el planeta, el mayor ecosistema existente. Constituye una unidad indisociable junto a su entorno. La biosfera es el mayor nivel que alcanza la organización ecológica, es decir, un supra sistema que encierra a sistemas (biomas) de niveles inferiores. A su vez, estos últimos incluyen a diversos subsistemas (ecosistemas). <br>La biosfera es la porción de la Tierra (agua, aire y suelo) habitada por plantas, animales y microorganismos. Abarca desde una altura de 10 kilómetros en la atmósfera hasta lo más profundo de los océanos.
     
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .col-md-8.col-lg-6.col-xl-4.mb-2
@@ -164,7 +164,7 @@
             .col-lg-12.p-4.ps-5 
               p Todos los ecosistemas necesitan una fuente de energía, representada por el sol, que se distribuye por los distintos componentes del ecosistema. De esa forma se mantiene la vida y se movilizan el agua, los minerales y otros componentes físicos del ecosistema. 
         
-        p.mb-4 Además, hay un continuo movimiento de materia, ya que los distintos elementos químicos (carbono, oxígeno, nitrógeno, etc.) pasan desde el aire, el suelo o el agua hacia los seres vivos, y de éstos regresan luego al aire, suelo o agua cerrándose así el ciclo. Por lo expuesto, se puede afirmar que los ecosistemas son sistemas abiertos porque intercambian materia y energía con el entorno, aunque el ingreso de energía es más importante que el de la materia, puesto que ésta se recicla y la reingresa al sistema.
+        p.mb-4 Además, hay un continuo movimiento de materia, ya que los distintos elementos químicos (carbono, oxígeno, nitrógeno, etc.) pasan desde el aire, el suelo o el agua hacia los seres vivos, y de éstos regresan luego al aire, el suelo o agua, cerrándose así el ciclo. Por lo expuesto, se puede afirmar que los ecosistemas son sistemas abiertos porque intercambian materia y energía con el entorno, aunque el ingreso de energía es más importante que el de la materia, puesto que esta se recicla y la reingresa al sistema.
 
         h4.mb-4 Cuando de ecosistemas se trata, hay ciertos términos que se utilizan y es preciso conocer:
 
@@ -225,7 +225,7 @@
             .lista-ol--cuadro__vineta
               span a
             div
-              <span class="text-marron text-bold">Las relaciones intra e inter específicas:</span> son las relaciones que se establecen entre una misma especie o entre especies diferentes. según el tipo de relación establecida, existen distinto comportamientos que exigirán una determina adaptación por parte de las plantas y de los animales.
+              <span class="text-marron text-bold">Las relaciones intra e interespecíficas:</span> son las relaciones que se establecen entre una misma especie o entre especies diferentes. según el tipo de relación establecida, existen distinto comportamientos que exigirán una determina adaptación por parte de las plantas y de los animales.
           li 
             .lista-ol--cuadro__vineta
               span b
@@ -246,7 +246,7 @@
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .col-lg-12.mb-4
-        h5.text-center En síntesis, todos los factores ambientales abióticos y bióticos influyen sobre los seres vivos, teniendo éstos que adaptarse a sus variaciones:
+        h5.text-center En síntesis, todos los factores ambientales, abióticos y bióticos influyen sobre los seres vivos, teniendo éstos que adaptarse a sus variaciones:
 
       .col-md-8.col-lg-6.mb-3
         figure
@@ -258,10 +258,10 @@
             span.text-bold.text-marron Biotopo + Biocenosis = Ecosistema
 
           row(numero="2" titulo="Recurso") 
-            p En ecología, un recurso es todo lo que un organismo consume o utiliza para llevar a cabo sus funciones vitales. Son recursos el agua, los alimentos, la luz, etc.
+            p En ecología, un recurso es todo lo que un organismo consume o utiliza para llevar a cabo sus funciones vitales. Son recursos: el agua, los alimentos, la luz, etc.
 
           row(numero="3" titulo="Hábitat") 
-            p Es un determinado lugar que ocupa una población (hormiguero, colmena, cueva) o una comunidad (fondo de un lago, orilla de un río). Un árbol es un hábitat de muchas aves, insectos y algunos mamíferos. En general no hay interferencia entre ellos porque algunos viven dentro del tronco, otros en la copa y algunos en las ramas más bajas del árbol. Cada hábitat posee recursos y condiciones particulares.
+            p Es un determinado lugar que ocupa una población (hormiguero, colmena, cueva) o una comunidad (fondo de un lago, orilla de un río). Un árbol es un hábitat de muchas aves, insectos y algunos mamíferos. En general, no hay interferencia entre ellos, porque algunos viven dentro del tronco, otros en la copa y algunos en las ramas más bajas del árbol. Cada hábitat posee recursos y condiciones particulares.
 
           row(numero="4" titulo="Nicho ecológico")
             p Es la forma en que cada especie o población aprovecha los recursos (alimentos, agua) y las condiciones de su hábitat (temperatura, humedad, velocidad de las corrientes de agua) para poder crecer, vivir y reproducirse.
@@ -280,10 +280,10 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img_14.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-2 <b>Clases de ecosistema:</b> los ecosistemas pueden ser clasificados en aeroterrestres y acuáticos, dependiendo del lugar (aire, tierra, agua) en que se lleva a cabo la vida de los organismos vivos. Son ecosistemas aeroterrestres los bosques, las praderas, el desierto, una playa, una montaña, un tronco de árbol caído, etc. <br>Dentro de los ecosistemas acuáticos se diferencian aquellos que son de agua dulce (ecosistemas acuáticos continentales) como los ríos, lagos, lagunas, arroyos, charcos, etc. y los de aguas saladas (ecosistemas marinos), como los mares y océanos.
+            p.mb-2 <b>Clases de ecosistema:</b> Los ecosistemas pueden ser clasificados en aeroterrestres y acuáticos, dependiendo del lugar (aire, tierra, agua), en que se lleva a cabo la vida de los organismos vivos. Son ecosistemas aeroterrestres: los bosques, las praderas, el desierto, una playa, una montaña, un tronco de árbol caído, etc. <br>Dentro de los ecosistemas acuáticos se diferencian aquellos que son de agua dulce (ecosistemas acuáticos continentales) como los ríos, lagos, lagunas, arroyos, charcos, etc. y los de aguas saladas (ecosistemas marinos), como los mares y océanos.
 
       .col-lg-12
-        p Los límites de los ecosistemas terrestres pueden distinguirse a partir del tipo de vegetación predominante. Tal el caso de los bosques, con sus numerosos árboles donde las copas forman un estrato, o una pradera donde abundan las pasturas bajas. Los accidentes geográficos que ofrecen una montaña, una playa o un lago son también una ayuda para establecer los límites de un ecosistema.
+        p Los límites de los ecosistemas terrestres pueden distinguirse a partir del tipo de vegetación predominante. Tal es el caso de los bosques, con sus numerosos árboles, donde las copas forman un estrato, o una pradera donde abundan las pasturas bajas. Los accidentes geográficos que ofrecen una montaña, una playa o un lago son también una ayuda para establecer los límites de un ecosistema.
 
     
     .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
@@ -297,7 +297,7 @@
         
         .tabla-b.mb-5 
           table
-            caption Nota: Sena (2012).
+            caption Fuente: SENA (2012).
             tbody
             tr
               td(rowspan="10" class="group").bg-05 ECOSISTEMA
@@ -389,8 +389,8 @@
             span.text-dark <em>Clases de contaminantes</em>
 
         figure
-          img.mb-3(src='@/assets/curso/temas/tema1/img_16.png', alt='La clasificación de los alimentos se detallan a continuación.').mx-auto
-          figcaption Nota: Sena (2012)
+          img.mb-3(src='@/assets/curso/temas/tema1/img_16.png', alt='Muestra la clase de contaminantes, los cuales se dividen en biodegradables, que se descomponen naturalmente, y no biodegradables, que permanecen en el medio ambiente por mucho tiempo.').mx-auto
+          figcaption Fuente: SENA (2012)
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
@@ -404,7 +404,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img_17.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p <b>Concepto:</b> es necesario que un guía turístico tenga en claro el concepto de recurso natural ya que existe una estrecha relación entre la actividad laboral y la convivencia con los recursos naturales, que son el compendio de los elementos de la naturaleza, esenciales y útiles para el aprovechamiento de los seres humanos: el agua, la luz, el sol, la tierra, los bosques, los peces, la flora, la fauna y los elementos químicos en su estado natural, entre otros.
+            p <b>Concepto:</b> es necesario que un guía turístico tenga en claro el concepto de recurso natural, ya que existe una estrecha relación entre la actividad laboral y la convivencia con los recursos naturales, que son el compendio de los elementos de la naturaleza, esenciales y útiles para el aprovechamiento de los seres humanos: el agua, la luz, el sol, la tierra, los bosques, los peces, la flora, la fauna y los elementos químicos en su estado natural, entre otros.
       
       .col-lg-12.mb-4
         h4.mb-3.text-center A continuación, se presenta en el cuadro, la clasificación de los recursos naturales:
@@ -425,7 +425,7 @@
 
             h3.mb-3.text-center No Biodegradables
 
-            p.text-center Los materiales que no se descomponen de manera natural y que,cuando lo hacen, sufren una descomposición extremadamente lenta,presentan un riesgo considerable debido a su acumulaciónprogresiva. Ejemplos de estos materiales no biodegradables incluyenlos metales, el vidrio y los artículos de plástico, animales y vegetales
+            p.text-center Los materiales que no se descomponen de manera natural y que, cuando lo hacen, sufren una descomposición extremadamente lenta, presentan un riesgo considerable debido a su acumulación progresiva. Ejemplos de estos materiales no biodegradables incluyen los metales, el vidrio y los artículos de plástico, animales y vegetales.
 
     .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
@@ -452,7 +452,7 @@
                 .col-md-12.col-xl-8.mb-4
                   h3.mb-2 Parque Nacional
 
-                  p Área extensa que facilita su autorregulación ecológica, con ecosistemas en general no alterados sustancialmente por la explotación u ocupación humana. En este espacio, las especies vegetales, animales, complejos geomorfológicos y manifestaciones históricas o culturales poseen valor científico, educativo, estético y recreativo nacional. Para garantizar su conservación, se somete a un régimen de manejo adecuado.
+                  p Área extensa que facilita su autorregulación ecológica, con ecosistemas en general no alterados sustancialmente por la explotación u ocupación humana. En este espacio, las especies vegetales, animales, complejos geomorfológicos y manifestaciones históricas o culturales poseen valor científico, educativo, estético y recreativo, nacional. Para garantizar su conservación, se somete a un régimen de manejo adecuado.
 
             .tarjeta.bg-01.p-2
               .row.justify-content-center.align-items-center.my-lg-4.p-3
@@ -504,7 +504,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-1.text-naranja Parques Nacionales Naturales
-                  p.text-small.mb-0.text-white Para conocer en detalle cada una de las áreas Naturales protegidas se debe tener en cuenta el área, organización, servicios, política de parques, y fotografías.
+                  p.text-small.mb-0.text-white Para conocer en detalle cada una de las áreas naturales protegidas, se debe tener en cuenta el área, organización, servicios, política de parques, y fotografías.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="http://www.parquesnacionales.gov.co/portal/es/" target="_blank")
                     span Ir al sitio
@@ -512,53 +512,54 @@
 
     .bg_img_5
       .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
-        h5.mb-5.text-center Así mismo según el Decreto 2372 de 2010 las categorías de áreas protegidas que conforman el SINAP «Sistema Nacional de Áreas Protegidas» son:
+        h5.mb-5.text-center Así mismo, según el Decreto 2372 de 2010, las categorías de áreas protegidas que conforman el SINAP «Sistema Nacional de Áreas Protegidas» son:
+        h5.mb-4.text-center Áreas protegidas públicas
         .col-md-12.col-lg-10
           .row.justify-content-center.mb-3
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
                   .h2 
-                p Los Sistema de Parques Nacionales Naturales.
+                p Los sistema de parques nacionales naturales.
 
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
                   .h2 
-                p Las Reservas Forestales Protectoras.
+                p Las reservas forestales protectoras.
 
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
                   .h2 
-                p Los Parques Naturales Regionales.
+                p Los parques naturales regionales.
 
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
                   .h2 
-                p Los Distritos de Manejo Integrado.
+                p Los distritos de manejo integrado.
 
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
                   .h2 
-                p Los DIstritos de Conservación de Suelos.
+                p Los distritos de conservación de suelos.
 
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
                   .h2 
-                p Las Áreas de Recreación
+                p Las áreas de recreación
                 
-        h4.mb-5.text-center Áreas Protegidas Privadas
+        h4.mb-4.text-center Áreas protegidas privadas
         .col-md-12.col-lg-10
           .row.justify-content-center.mb-0
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
                   .h2 
-                p Las Reservas Naturales de la Sociedad Civil
+                p Las reservas naturales de la sociedad civil
 </template>
 
 <script>

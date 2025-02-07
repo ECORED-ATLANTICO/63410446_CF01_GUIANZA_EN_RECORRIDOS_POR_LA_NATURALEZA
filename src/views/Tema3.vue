@@ -20,11 +20,11 @@
         figure
           img(src="@/assets/curso/temas/tema3/img_2.png", alt='Imagen Descriptiva')
       .col-lg-8.mb-2
-        p El tema puede ser dividido en dos áreas principales: control de la contaminación y la remediación, y conservación de los recursos y la gestión. Las leyes que tratan con la contaminación son a menudo medios de comunicación limitados, es decir, pertenecen sólo a un solo medio ambiental, como el aire, el agua (ya sean aguas superficiales, aguas subterráneas o los océanos), suelo, etc., y controlan tanto las emisiones de contaminantes en el medio ambiente, así como la responsabilidad por exceder las emisiones permitidas y la responsabilidad de la limpieza.
+        p El tema puede ser dividido en dos áreas principales: control de la contaminación y la remediación, y conservación de los recursos y la gestión. Las leyes que tratan con la contaminación son a menudo medios de comunicación limitados, es decir, pertenecen sólo, a un solo medioambiental, como el aire, el agua (ya sean aguas superficiales, aguas subterráneas o los océanos), suelo, etc., y controlan tanto las emisiones de contaminantes en el medio ambiente, así como la responsabilidad por exceder las emisiones permitidas y la responsabilidad de la limpieza.
         .cajon.bg-1.g_18.mb-3
           .row.mb-4
             .col-lg-12.p-4.ps-5 
-              p Las leyes sobre conservación de los recursos y la gestión se centran generalmente en un solo recurso – por ejemplo, los recursos naturales como los bosques, yacimientos minerales o animales, o más recursos intangibles tales como las zonas especialmente escénicas o los sitios de alto valor arqueológico y proporcionan directrices y limitaciones sobre la conservación, alteración y uso de esos recursos. Muchas leyes que no son exclusivamente “ambientales” sin embargo, contienen importantes componentes del medio ambiente e integran las decisiones de política ambiental. Las leyes municipales, estatales y nacionales en materia de desarrollo, uso del suelo y la infraestructura son algunos ejemplos.
+              p Las leyes sobre conservación de los recursos y la gestión se centran generalmente en un solo recurso – por ejemplo, los recursos naturales como los bosques, yacimientos minerales o animales, o más recursos intangibles tales como las zonas especialmente escénicas o los sitios de alto valor arqueológico y proporcionan directrices y limitaciones sobre la conservación, alteración y uso de esos recursos. Muchas leyes que no son exclusivamente “ambientales”, sin embargo, contienen importantes componentes del medio ambiente e integran las decisiones de política ambiental. Las leyes municipales, estatales y nacionales en materia de desarrollo, uso del suelo y la infraestructura son algunos ejemplos.
 
     .bg_img_3_1
       .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
@@ -39,7 +39,7 @@
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-12.mb-3
-        p.mb-3 Desde una perspectiva económica legislación ambiental puede ser entendida como interesada en la prevención de las externalidades presentes y futuras, y la preservación de los recursos comunes del agotamiento individual.
+        p.mb-3 Desde una perspectiva económica, la legislación ambiental puede ser entendida como interesada en la prevención de las externalidades presentes y futuras, y la preservación de los recursos comunes del agotamiento individual.
         p Las limitaciones y los gastos que tales leyes pueden imponer sobre el comercio y los beneficios no cuantificables a menudo (no monetarios) de la protección del medio ambiente, han generado y siguen generando gran controversia.
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
@@ -73,7 +73,7 @@
             |	Código Nacional de Recursos Naturales Renovables y de Protección al Medio Ambiente. Ley 0023 de 1973.
       
       .col-lg-12.mb-0
-        p.text-center Partiendo de dicha normatividad es importante resaltar el artículo 26 de la ley 1558 de 2012, el cual define el rol de Guía Turístico. 
+        p.text-center Partiendo de dicha normatividad, es importante resaltar el artículo 26 de la ley 1558 de 2012, el cual define el rol de guía turístico. 
          
 </template>
 

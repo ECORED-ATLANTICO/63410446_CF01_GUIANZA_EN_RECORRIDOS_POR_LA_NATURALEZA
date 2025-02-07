@@ -15,7 +15,7 @@
     .bg_img_6_4.mb-2
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
-          h3.bgr_3.position-relative Principio 1. Planifique y prepare su viaje con anticipación
+          h3.bgr_3.position-relative Principio 1: Planifique y prepare su viaje con anticipación
             img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
@@ -103,7 +103,7 @@
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
-          h3.bgr_3.position-relative Principio 2. Viaje y acampe en superficies resistentes
+          h3.bgr_3.position-relative Principio 2: Viaje y acampe en superficies resistentes
             img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .col-md-8.col-lg-6.col-xl-5.mb-2
@@ -235,7 +235,7 @@
                   img(src='@/assets/curso/temas/tema6/img_13.png', alt='Texto que describa la imagen').mx-auto
               .col-md-12.col-xl-8
                 h3.mb-2 Superficies inorgánicas
-                p De preferencia, camine por superficies inorgánicas como roca, arena, nieve o lechos de arroyos ya que éstas siempre serán las más resistentes.
+                p De preferencia, camine por superficies inorgánicas como roca, arena, nieve o lechos de arroyos, ya que estas siempre serán las más resistentes.
 
           .tarjeta.bg-01.p-2
             .row.justify-content-center.align-items-center.my-lg-4.p-3
@@ -327,7 +327,7 @@
           p.mb-3 En algunos lugares de las sierras donde el río o el arroyo se estrechan, existen acumulaciones de arena en los márgenes, llamados ancones, donde es posible acampar. Considérelo como un sitio frágil.
           
           h4.mb-2.text-verde Proteja las fuentes de agua dulce 
-          p.mb-3 Para minimizar las posibilidades de contaminar el agua dulce y de molestar a los animales silvestres que dependen de ésta para su alimentación, se debe seleccionar el sitio de campamento alejado de la fuente de agua. Una buena medida es acampar a 60 metros (70 pasos de adulto, aproximadamente) de distancia de la fuente de agua.
+          p.mb-3 Para minimizar las posibilidades de contaminar el agua dulce y de molestar a los animales silvestres que dependen de esta para su alimentación, se debe seleccionar el sitio de campamento alejado de la fuente de agua. Una buena medida es acampar a 60 metros (70 pasos de adulto, aproximadamente) de distancia de la fuente de agua.
           p Si no existe un sendero hacia la fuente de agua, utilice senderos alternados y acarree el agua en recipientes que le eviten hacer múltiples viajes. Con esto se evita el desarrollo de senderos y el pisoteo de la vegetación contigua a la fuente de agua.
           
         .col-md-8.col-lg-6.col-xl-4.mb-2
@@ -337,7 +337,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
-          h3.bgr_3.position-relative Principio 3. Disponga de desperdicios de la manera más apropiada
+          h3.bgr_3.position-relative Principio 3: Disponga de desperdicios de la manera más apropiada
             img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .col-lg-12.mb-3
@@ -469,7 +469,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema6/img_28.png')})`}"
             )
             .bloque-texto-g__texto.p-4
-              p.mb-0 Cuando usa jabón para el aseo personal, es importante llevar uno biodegradable y bañarse utilizando agua acarreada, lejos de la fuente de agua. Siempre lave muy bien sus manos con agua y jabón luego de ir al baño ya que eliminará fuentes de infección. 
+              p.mb-0 Cuando usa jabón para el aseo personal, es importante llevar uno biodegradable y bañarse utilizando agua acarreada, lejos de la fuente de agua. Siempre lave muy bien sus manos con agua y jabón luego de ir al baño, ya que eliminará fuentes de infección. 
               p En el caso de la limpieza de utensilios de cocina, lavar con agua caliente es suficiente para dejarlos limpios. Agregar unas gotas de cloro al agua con la que se enjuaga, puede evitar la proliferación de bacteria que producen enfermedades gastrointestinales.
     
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
@@ -483,7 +483,7 @@
         h4.color-primario Tipos de Impactos al Recurso
         LineaTiempoD
           row(numero="1" titulo="Si existe un baño o letrina en el área, utilícelo") 
-            p Cuando muchas personas visitan un área, los desechos humanos pueden exceder la capacidad de descomposición del área. La presencia de un baño o letrina evidencia que la taza de uso es alta y es necesario concentrar los desechos para aislarlos del ecosistema. No arroje en letrinas desperdicios ni envases ya que son muy difíciles de remover al momento de la limpieza.
+            p Cuando muchas personas visitan un área, los desechos humanos pueden exceder la capacidad de descomposición del área. La presencia de un baño o letrina evidencia que la taza de uso es alta y es necesario concentrar los desechos para aislarlos del ecosistema. No arroje en letrinas desperdicios ni envases, ya que son muy difíciles de remover al momento de la limpieza.
 
           row(numero="2" titulo="Hoyo de gato") 
             p Cubrir las heces con rocas inhibe la humedad y el calor que ayudan a la descomposición y puede resultar en sorpresas desagradables a otros visitantes. El hoyo de gato es la técnica más efectiva para fomentar la descomposición y degradación de heces fecales en donde no hay facilidades sanitarias. Sin embargo, para aplicar la técnica del hoyo de gato, se requiere de un nivel de conciencia uniforme para todo el grupo.
@@ -519,7 +519,7 @@
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
-          h3.bgr_3.position-relative Principio 4. Respete la vida silvestre
+          h3.bgr_3.position-relative Principio 4: Respete la vida silvestre
             img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .col-lg-12.col-xl-8.mb-2        
@@ -551,7 +551,7 @@
             img(src="@/assets/curso/temas/tema6/img_31.png", alt='Imagen Descriptiva')
         .col-lg-12.col-xl-7.mb-2
           h4.mb-2.text-verde No alimente a los animales 
-          p.mb-3 No alimente a los animales ya que les provoca cambios en su comportamiento y por ende resulta en alteraciones de su dieta natural. Proteja a la fauna silvestre almacenando su alimento y basura en forma segura donde los animales no lo puedan alcanzar. Animales acostumbrados asocian a los campistas con alimento y por lo tanto visitarán el campamento en busca de comida. 
+          p.mb-3 No alimente a los animales, ya que les provoca cambios en su comportamiento y por ende resulta en alteraciones de su dieta natural. Proteja a la fauna silvestre almacenando su alimento y basura en forma segura donde los animales no lo puedan alcanzar. Animales acostumbrados asocian a los campistas con alimento y por lo tanto visitarán el campamento en busca de comida. 
 
           .cajon.bg-1.g_18.mb-3
             .row.mb-4
@@ -569,7 +569,7 @@
 
           h4.mb-2.text-verde Considere las necesidades básicas de la fauna silvestre 
           p.mb-2 Facilite el acceso libre a las fuentes de agua por dejar un espacio de amortiguamiento entre tus actividades y las fuentes de agua. Así la fauna tendrá el espacio necesario para sentirse seguro.
-          p Restringe a su perro, o mejor, déjelo en casa cuando visite el hábitat de fauna silvestre., pocos perros pueden resistir la tentación de perseguir cualquier animal que huya.
+          p Restringe a su perro, o mejor, déjelo en casa cuando visite el hábitat de fauna silvestre, pocos perros pueden resistir la tentación de perseguir cualquier animal que huya.
 
         .col-md-8.col-lg-6.col-xl-4.mb-2
           figure
@@ -578,7 +578,7 @@
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-12.mb-2
         h4.mb-2.text-verde Prevenga contaminación innecesaria 
-        p.mb-2 Camine sin hacer ruidos y mantenga la distancia necesaria para que los animales se sientan seguros. Con sus binoculares o con la lente telescópica de su cámara podrá disfrutar, observar y fotografiar la vida silvestre a distancia y ayudar a mantener silvestres a los animales silvestres. El provocar que los animales huyan, el perseguirlos, alimentarlos o atraerlos son todas acciones que comprometen la habilidad de éstos para comportarse según sus patrones naturales. El tocar o atrapar a un animal silvestre constituye una doble amenaza. En primer lugar, lo pone en estrés y es posible que un animal que permite que se le acerquen los humanos tenga rabia o sea portador de otras enfermedades.
+        p.mb-2 El lavado y la disposición de deshechos humanos deben ser realizados con cuidado para no contaminar el ambiente y para evitar daño a animales y fauna acuática. Nunca introduzca platos, ropa, ni cuerpos sucios en una fuente de agua. Proteja las fuentes de agua cuando pesque. No use blanqueadores, químicos o dinamita para pescar. Estas prácticas causan daños irreversibles a los ríos y quebradas. No mate aves o mamíferos pequeños para usarlos de carnada. En lugares muy populares para la pesca, use la técnica de pescar y devolver el pez al agua como forma de evitar la reducción de las poblaciones.
 
       .col-lg-12.mb-5
         .bloque-texto-g.bloque-texto-g--inverso.bg-17.p-3.p-sm-4.p-md-5
@@ -594,7 +594,7 @@
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
-          h3.bgr_3.position-relative Principio 5. Minimice el impacto de fogatas
+          h3.bgr_3.position-relative Principio 5: Minimice el impacto de fogatas
             img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
 
       .col-lg-12.mb-3
@@ -602,7 +602,7 @@
         p.mb-2 "No deje rastro", estimula a sus seguidores a restringir lo más posible el uso del fuego. Traiga la leña de su casa, o mejor aún, use estufas portátiles para cocinar. Si decide usar una fogata, disponga de un recipiente con agua por seguridad y evitar incendios.
 
         h4.mb-2.text-verde Pregúntese si en verdad necesita hacer fuego 
-        p.mb-2 El llevar consigo un abrigo, una capa impermeable y una estufa de acampar liviana eliminará la necesidad de hacer fuego. Las estufas de acampar son el equipo más importante para minimizar el impacto ya que son portátiles, cocinan muy rápido y no dejan huella en el campamento. Los campistas deberán llevar consigo una estufa y suficiente combustible para cocinar todas sus comidas, siempre que sea posible.
+        p.mb-2 El llevar consigo un abrigo, una capa impermeable y una estufa de acampar liviana eliminará la necesidad de hacer fuego. Las estufas de acampar son el equipo más importante para minimizar el impacto, ya que son portátiles, cocinan muy rápido y no dejan huella en el campamento. Los campistas deberán llevar consigo una estufa y suficiente combustible para cocinar todas sus comidas, siempre que sea posible.
 
 
       .col-md-8.col-lg-6.col-xl-5.mb-2
@@ -648,7 +648,7 @@
           .cajon.bg-1.g_18.mb-3
             .row.mb-4
               .col-lg-12.p-4.ps-5 
-                p Condiciones meteorológicas de mucho viento son un indicador en contra a hacer una fogata ya que el viento fácilmente puede llevar chispas y prender incendios en los alrededores. Cómo mínimo, procure seleccionar un sitio protegido del viento y considere no use una fogata bajo estas condiciones.
+                p Condiciones meteorológicas de mucho viento son un indicador en contra a hacer una fogata, ya que el viento fácilmente puede llevar chispas y prender incendios en los alrededores. Cómo mínimo, procure seleccionar un sitio protegido del viento y considere no use una fogata bajo estas condiciones.
 
           p.mb-3 Si la reglamentación y el clima son apropiados para hacer una fogata, el próximo paso es determinar si hay suficiente madera seca y tirada en el suelo para proveerle de leña. En algunas áreas, altas tazas de visitación "limpian" el suelo de este tipo de madera. Si encuentra esta situación es mejor postergar su fogata hasta llegar a un área que no está bajo tanta presión. Algunos ambientes, como el desierto y alta montaña tienen tazas muy bajas de producción para plantas maderosas. Aquí es mejor no depender de fogatas para cocinar.
 
@@ -668,12 +668,12 @@
           p.mb-3 Si el lugar para fuegos se está llenando de cenizas, remuévalas y riéguelas sobre un área extensa lejos del lugar de acampar. Estas prácticas ayudarán a prevenir la proliferación de múltiples lugares para fuegos en las áreas más populares. 
 
           h4.mb-2.text-verde Colecte solo madera seca y ramas caídas de un área amplia
-          p.mb-3 Las fogatas solo se deben hacer donde hay abundante leña y condiciones apropiadas. Recoja ramitas y ganchos pequeños del suelo. No corte ramas de los árboles ya que esto deja cicatrices y causa impactos visuales adversos. Camine unos minutos lejos del lugar de acampar y recoja leña en un área lo suficientemente grande para que no se note. Evite construir fogatas bajo árboles o suelos con hojarasca.
+          p.mb-3 Las fogatas solo se deben hacer donde hay abundante leña y condiciones apropiadas. Recoja ramitas y ganchos pequeños del suelo. No corte ramas de los árboles, ya que esto deja cicatrices y causa impactos visuales adversos. Camine unos minutos lejos del lugar de acampar y recoja leña en un área lo suficientemente grande para que no se note. Evite construir fogatas bajo árboles o suelos con hojarasca.
 
         .col-md-12.col-lg-10.mb-2
            LineaTiempoD
             row(numero="1" titulo="Utilice trozos pequeños de madera") 
-              p Para causar mínimo impacto los fuegos son mucho más pequeños que los tradicionales, pero aun así resultan excelentes para cocinar. La leña debe ser de un diámetro menor al de la muñeca de un adulto. No fragmente la leña hasta que la vaya a quemar. La leña debe poderse cortar a mano al tamaño apropiado para que se consuma totalmente sin desperdiciarla. Esto elimina la necesidad de llevar consigo machetes o sierras, que son muy pesadas de cargar y al usarse dejan cicatrices indeseables. La leña que no se utilice puede volverse a tirar al bosque para evitar impactos visuales poco naturales. Es mejor no colectar troncos grandes picarlos ya que estos sirven una función importante en el ciclo de nutrientes en un bosque.
+              p Para causar mínimo impacto los fuegos son mucho más pequeños que los tradicionales, pero aun así resultan excelentes para cocinar. La leña debe ser de un diámetro menor al de la muñeca de un adulto. No fragmente la leña hasta que la vaya a quemar. La leña debe poderse cortar a mano al tamaño apropiado para que se consuma totalmente sin desperdiciarla. Esto elimina la necesidad de llevar consigo machetes o sierras, que son muy pesadas de cargar y al usarse dejan cicatrices indeseables. La leña que no se utilice puede volverse a tirar al bosque para evitar impactos visuales poco naturales. Es mejor no colectar troncos grandes picarlos, ya que estos sirven una función importante en el ciclo de nutrientes en un bosque.
 
             row(numero="2" titulo="Queme su fuego hasta producir solo cenizas o brasas muy pequeñas") 
               p El hacer esto requiere un poco de esfuerzo y tiempo adicional, pero es un paso significativo para minimizar los impactos. Una vez que el fuego se apaga, cualquier brasa o pedazo grande debe ser reducido a un polvo fino simplemente frotándolo uno contra otro con las manos cubiertas por guantes. Después de comprobar que no existe ninguna braza caliente, este polvo puede ser ampliamente regado sobre suelos cubiertos de vegetación junto a la ceniza y será absorbido en el suelo por los efectos de la lluvia y la vegetación. ¡Nunca deje una fogata prendida o caliente sin supervisión! Si la fogata no esté apagada cuando usted quiere retirarse, tápala con una olla o sartén.
@@ -703,7 +703,7 @@
     .row.justify-content-center.align-items-center.mb-2.ordenar_tarjetas(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
-          h3.bgr_3.position-relative Principio 6. Considere a otros visitantes
+          h3.bgr_3.position-relative Principio 6: Considere a otros visitantes
             img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
       
       .col-lg-12.mb-3
@@ -713,7 +713,7 @@
       .col-lg-12.col-xl-8.mb-3.pos_2
         h4.mb-2.text-verde Maximice la sensación de estar rodeado por la naturaleza 
         p.mb-2 Guarde silencio y trate de armonizar con el paisaje circundante. Las radios portátiles son una invasión innecesaria de la ciudad en los lugares silvestres. La intrusión causada por el ruido que estos artefactos producen, perturbará la paz que otros visitantes desean disfrutar. 
-        p.mb-2 Además, los ruidos fuertes y la música perturban la vida silvestre. Si lleva una radio consigo, use audífonos para no molestar a otros y úselos con discreción. Considere su utilidad en un ambiente silvestre y si de verdad contribuyen a su experiencia para disfrutar de la naturaleza o si, por el contrario, le restan el poder de disfrutar de ésta.
+        p.mb-2 Además, los ruidos fuertes y la música perturban la vida silvestre. Si lleva una radio consigo, use audífonos para no molestar a otros y úselos con discreción. Considere su utilidad en un ambiente silvestre y si de verdad contribuyen a su experiencia para disfrutar de la naturaleza o si, por el contrario, le restan el poder de disfrutar de esta.
         p.mb-2 Encuestas de visitantes muestran que la experiencia recreativa es afectada más negativamente por impactos evitables que por impactos difíciles de evitar con el uso. Descortesía, basura tirada, grafitis, daño a árboles, anillos de fogatas son impactos ofensivos.
         p Si Ud. valora la soledad durante sus viajes al aire libre, evite salidas durante días feriados y fines de semana. Es mejor evitar el uso de ropa y equipo de colores llamativos que pueden ser vistos de muy lejos. Especialmente en zonas abiertas colores como amarillo brillante contribuyen a una sensación de aglomeración de gente: mejor escoja colores que se semejan los que se encuentran en el entorno para minimizar el impacto visual (cafés y verdes).
 
@@ -741,7 +741,7 @@
                     img(src='@/assets/curso/temas/tema6/img_40.png', alt='Texto que describa la imagen').mx-auto
                 .col-md-12.col-xl-7
                   h3.mb-2 Evite llevar animales domésticos
-                  p Evite llevar consigo animales domésticos al bosque como perros o gatos. Generalmente estos animales tienden a perseguir y acosar la vida silvestre del sitio o inclusive cazarlos. También existe el riesgo de que se pierdan causando mayores problemas en el área, a usted y a los animales nativos. Si piensa llevar un animal doméstico, consulte las regulaciones existentes del lugar que piensa visitar. Los animales domésticos dejan sus heces en sitios inapropiados. Por favor, remueva las heces de los campamentos y senderos.
+                  p Evite llevar consigo animales domésticos al bosque como perros o gatos. Generalmente, estos animales tienden a perseguir y acosar la vida silvestre del sitio o inclusive cazarlos. También existe el riesgo de que se pierdan causando mayores problemas en el área, a usted y a los animales nativos. Si piensa llevar un animal doméstico, consulte las regulaciones existentes del lugar que piensa visitar. Los animales domésticos dejan sus heces en sitios inapropiados. Por favor, remueva las heces de los campamentos y senderos.
 
             .tarjeta.bg-01.p-2
               .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-3
@@ -764,7 +764,7 @@
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
         .div.mb-3(data-aos="fade-right")
-          h3.bgr_3.position-relative Principio 7. Deje lo que encuentre
+          h3.bgr_3.position-relative Principio 7: Deje lo que encuentre
             img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='Imagen Descriptiva')
       
       .col-lg-12.mb-3
@@ -807,7 +807,7 @@
                     img(src='@/assets/curso/temas/tema6/img_47.png', alt='Texto que describa la imagen').mx-auto
                 .col-md-12.col-xl-7
                   h3.mb-2 Deje los objetos naturales y los artefactos culturales
-                  p Objetos naturales de gran belleza e interés, tal como los cristales, caracoles o fósiles deben ser dejados en su lugar. La misma ética aplica a los artefactos culturales, que incluyen piedras con grabados, cabezas de flechas y hachas y ruinas de estructuras. En muchos países estos artefactos están protegidos por leyes y es ilegal el excavar, perturbar o remover cualquiera de estos recursos de los lugares públicos. Los lugares y artefactos arqueológicos son sagrados para la gente indígena.
+                  p Objetos naturales de gran belleza e interés, tal como los cristales, caracoles o fósiles, deben ser dejados en su lugar. La misma ética aplica a los artefactos culturales, que incluyen piedras con grabados, cabezas de flechas y hachas y ruinas de estructuras. En muchos países estos artefactos están protegidos por leyes y es ilegal el excavar, perturbar o remover cualquiera de estos recursos de los lugares públicos. Los lugares y artefactos arqueológicos son sagrados para la gente indígena.
   
       .col-lg-12
         p.mb-2 Estos recursos nos ayudan a entender la historia natural de los humanos incluyendo los efectos de enfermedades, cambios climáticos y cambios en la fauna y sus poblaciones. El perturbar estos artefactos los saca de su contexto significativo y remueve un capítulo de una historia importante e interesante.

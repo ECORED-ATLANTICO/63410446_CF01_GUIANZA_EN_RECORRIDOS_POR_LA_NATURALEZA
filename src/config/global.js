@@ -115,17 +115,18 @@ export default {
   complementario: [
     {
       tema: 'Ecología y recursos naturales',
-      referencia: 'Conservación de Recursos Naturales SENA [2022]. YouTube.',
+      referencia:
+        'SENA. (2022). Técnico en Conservación de Recursos Naturales [Archivo de video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Jx7swm2MhC8',
     },
     {
       tema: 'Legislación ambiental',
       referencia:
-        'Congreso de Colombia. (1993). Ley 99 de 1993: Por la cual se crea el Ministerio del Medio Ambiente, se reordena el Sector Público encargado de la gestión y conservación del medio ambiente y los recursos naturales renovables, se organiza el Sistema Nacional Ambiental, SINA, y se dictan otras disposiciones. Diario Oficial, año CXXIX, N. 41146, 22 de diciembre de 1993, pág. 1.',
+        'DIARIO OFICIAL. (1993). El Congreso de Colombia: Por la cual se crea el Ministerio del Medio Ambiente, se reordena el Sector Público encargado de la gestión y conservación del medio ambiente y los recursos naturales renovables, se organiza el Sistema Nacional Ambiental, SINA, y se dictan otras disposiciones.',
       tipo: 'Página web',
       link:
-        'https://www.minambiente.gov.co/wp-content/uploads/2021/08/ley-99-1993.pdf',
+        'https://www.minambiente.gov.co/lideres-ambientales/normativa-ambiental/',
     },
 
     // {
@@ -180,7 +181,7 @@ export default {
     {
       termino: 'Biosfera',
       significado:
-        'Conjunto de todos los ecosistemas de la Tierra, que incluye todos los seres vivos y los entornos en los que habitan.',
+        'Conjunto de todos los ecosistemas de la Tierra, que incluye a todos los seres vivos y los entornos en los que habitan.',
     },
     {
       termino: 'Contaminación',
@@ -236,11 +237,6 @@ export default {
     },
     {
       referencia:
-        'Cuello, J. & Tola, J (1998). Atlas Mundial del Medio Ambiente –Preservación de la Naturaleza. Barcelona.',
-      link: '',
-    },
-    {
-      referencia:
         'Ecológicas, Área: Conceptual, Serie: Ecología y Biogeografía. México: Editorial Trillas.',
       link: '',
     },
@@ -261,11 +257,7 @@ export default {
     },
     {
       referencia:
-        'Herrera, K., Ninón, I., & Morales, F.J. (1995). Factores Ambientales y Recursos Compartidos. México: Editorial Trillas.',
-      link: '',
-    },
-    {
-      referencia: 'República de Colombia. (2012). Ley 1558 de 2012. ',
+        'República de Colombia. (2012). Ley 1558 del 10 de Julio de 2012. ',
       link: '',
     },
     {
@@ -291,14 +283,14 @@ export default {
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
           cargo:
-            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+            'Responsable del ecosistema de recursos educativos digitales (RED)',
           centro: 'Dirección General',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro Para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico.',
         },
       ],
     },
@@ -308,18 +300,18 @@ export default {
         {
           nombre: 'Julio Hernán Beltrán Peñuela',
           cargo: 'Experta temático',
-          centro: 'Centro de Comercio y Servicios - Regional Caldas',
+          centro: 'Centro de Comercio y Servicios - Regional Caldas.',
         },
         {
           nombre: 'Mónica Patricia Osorio Martínez',
           cargo: 'Asesora pedagógica',
-          centro: 'Centro Agroindustrial - Regional Quindío',
+          centro: 'Centro Agroindustrial - Regional Quindío.',
         },
         {
           nombre: 'Gilberto Herrera Delgans',
           cargo: 'Evaluador instruccional',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro Para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico.',
         },
       ],
     },
@@ -328,21 +320,21 @@ export default {
       autores: [
         {
           nombre: 'Eulises Orduz Amezquita',
-          cargo: 'Diseñador de Contenidos Digitales',
+          cargo: 'Diseñador de contenidos digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico.',
         },
         {
           nombre: 'Liborio De Jesús Castañeda Valencia',
           cargo: 'Desarrollador <em>full stack junior</em>',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico.',
         },
         {
           nombre: 'Nelson Ivan Vera Briceño',
-          cargo: 'Animador y Producción audiovisual',
+          cargo: 'Animador y productor audiovisual',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico.',
         },
         // {
         //   nombre: 'Nombre',
@@ -357,27 +349,27 @@ export default {
       autores: [
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico.',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico.',
         },
         {
           nombre: 'Juan Carlos Cardona Acosta',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico.',
         },
         {
           nombre: 'Jairo Luis Valencia Ebratt',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico.',
         },
       ],
     },

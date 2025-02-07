@@ -9,7 +9,7 @@
       
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
       .col-lg-12.mb-3
-        p La historia, así como la geografía son relevantes dentro del concepto del manejo turístico de un atractivo. El texto siguiente busca definir parámetros sobre estos temas.
+        p La historia, así como la geografía, son relevantes dentro del concepto del manejo turístico de un atractivo. El texto siguiente busca definir parámetros sobre estos temas.
       .col-lg-12.mb-5
         .bloque-texto-g.bloque-texto-g--inverso.bg-09.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -99,7 +99,7 @@
         .cajon.bg-2.g_18.mb-3
           .row.mb-4
             .col-lg-12.p-4.ps-5 
-              p En la actualidad existe una geografía del turismo que comprende una geografía de mercado, de tráfico de turismo y de núcleo receptores. Actualmente está definido en zonas emisoras y receptoras, pero, esa división no es tan clara; pues, se mezclan entre ellas. Existen muchos estudios sobre la geografía turística, pero, sin embargo, es una ciencia muy reciente, puesto que solo tiene 50 años, que resulta insignificante si se compara con las ciencias tradicionales.
+              p En la actualidad existe una geografía del turismo que comprende una geografía de mercado, de tráfico de turismo y de núcleo receptor. Actualmente, está definido en zonas emisoras y receptoras, pero, esa división no es tan clara; pues, se mezclan entre ellas. Existen muchos estudios sobre la geografía turística, pero, sin embargo, es una ciencia muy reciente, puesto que solo tiene 50 años, que resulta insignificante si se compara con las ciencias tradicionales.
 
       .col-md-8.col-lg-4.mb-2
         figure

@@ -28,12 +28,12 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img_2.svg')})`}"
             )
             .bloque-texto-g__texto.p-4
-              p.mb-0 El programa “No Deje Rastro”, fue creado para ayudar a los visitantes en áreas silvestres protegidas a tomar decisiones adecuadas sobre sus propias acciones. Los principios NDR deben servir para desarrollar una conciencia y criterio y no son leyes ni reglamentos. El programa no se trata de prohibir comportamientos específicos, pero al contrario se trata de entregar las bases ecológicas generales para que en cada situación o cada medio ambiente el usuario de áreas silvestres cuenta con la orientación necesaria para tomar una buena decisión.
+              p.mb-0 El programa “No Deje Rastro”, fue creado para ayudar a los visitantes en áreas silvestres protegidas a tomar decisiones adecuadas sobre sus propias acciones. Los principios NDR deben servir para desarrollar una conciencia y criterio y no son leyes ni reglamentos. El programa no se trata de prohibir comportamientos específicos, pero, al contrario, se trata de entregar las bases ecológicas generales para que en cada situación o cada medio ambiente el usuario de áreas silvestres cuenta con la orientación necesaria para tomar una buena decisión.
     
     .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
       .col-lg-12.mb-3
-        p.mb-3 Los Principios del programa "No Deje Rastro", basado y apoyado por investigaciones científicas desde sus comienzos, son una herramienta clara, consistente y práctica recomendando técnicas simples y fáciles de aplicar.
-        p En la década de 1960 en los Estados Unidos de Norteamérica se produjo una explosión en la demanda para el uso de las áreas silvestres por parte de los habitantes de ese país con actividades como caminatas, excursiones y campismo. En 1924 el Servicio de Forestal de los Estados Unidos tenía una demanda de 4.6 millones de visitantes y en 1999 el uso era de 900 millones de usuarios. Cifras similares se registran en el Servicio de Parques Nacionales, con 33 millones en 1950 a 172 millones en 1970 y 287 millones de visitantes por año en 1999.
+        p.mb-3 Los principios del programa "No Deje Rastro", basado y apoyado por investigaciones científicas desde sus comienzos, son una herramienta clara, consistente y práctica, recomendando técnicas simples y fáciles de aplicar.
+        p En la década de 1960, en los Estados Unidos de Norteamérica se produjo una explosión en la demanda para el uso de las áreas silvestres por parte de los habitantes de ese país con actividades como caminatas, excursiones y campismo. En 1924, el Servicio de Forestal de los Estados Unidos tenía una demanda de 4.6 millones de visitantes y en 1999 el uso era de 900 millones de usuarios. Cifras similares se registran en el Servicio de Parques Nacionales, con 33 millones en 1950 a 172 millones en 1970 y 287 millones de visitantes por año en 1999.
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-7.mb-2
@@ -43,7 +43,7 @@
               p Estos aumentos comenzaron a producir impactos asociados que hasta entonces no se conocían. Impactos asociados a senderos y sitios de campamentos fueron los primeros en surgir. Luego vinieron cambios asociados a los hábitats de la fauna silvestre y sus ciclos naturales. A la vez que se registran cambios en la vegetación. Desde tempranas épocas se comenzaron programas para educar a los visitantes y a regular el uso de las áreas silvestres. A mediados de los años 70 se desarrolló por parte del Servicio de Forestal de los Estados Unidos un programa educativo que daba énfasis en entregar técnicas de bajo impacto a los visitantes. 
         p En 1987 se desarrolló por parte del Servicio Forestal, Servicio de Parques Nacionales y Bureau of Land Management material educativo con título "Éticas de No Deje Rastro". Durante esta época se escribieron libros e investigaciones que expresaban éticas y entregaban contenidos en el tema de como minimizar el impacto. En 1988 se publicó el libro Soft Paths (Senderos Suaves) donde se fundamentan los elementos que componen las técnicas de impacto mínimo hoy en día.
 
-        p <em>Fuente: The National Outdoor Leadership School (NOLS) & Leave No Trace (LNT). </em>
+        p <em>Fuente: The National Outdoor Leadership School (NOLS) & Leave No Trace (LNT).</em>
       .col-md-8.col-lg-5.mb-2
         figure
           img(src="@/assets/curso/temas/tema4/img_3.png", alt='Imagen Descriptiva')
