@@ -112,7 +112,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img_9.png')})`}"
           )
           .bloque-texto-g__texto.p-4.bg-transparente.text-white
-            p.mb-0 El turismo actual aparece muy definido en una corriente turística que se puede llamar de tradiciones (carreteras, ferrocarriles, avión); y también en una corriente con origen estrictamente turístico (itinerarios, vuelo chárter, cruceros). Existen pocos estudios sobre ésta, porque es un fenómeno relativamente reciente. Las primeras obras que tenemos sobre geografía turística serían las de Charles Réau, que en su revista “Repertorio de viajes”, hizo una serie de estudios de los años 50, los cuales constituyen la base de lo que hoy llamamos geografía turística. 
+            p.mb-0 El turismo actual aparece muy definido en una corriente turística que se puede llamar de tradiciones (carreteras, ferrocarriles, avión); y también en una corriente con origen estrictamente turístico (itinerarios, vuelo chárter, cruceros). Existen pocos estudios sobre esta, porque es un fenómeno relativamente reciente. Las primeras obras que tenemos sobre geografía turística serían las de Charles Réau, que en su revista “Repertorio de viajes”, hizo una serie de estudios de los años 50, los cuales constituyen la base de lo que hoy llamamos geografía turística. 
       
       .col-lg-12
         p Pierre Defert, sigue la misma línea que el anterior, ambos son considerados los primeros iniciadores de la geografía turística como ciencia compleja. (Urry y Axhausen, 2006).

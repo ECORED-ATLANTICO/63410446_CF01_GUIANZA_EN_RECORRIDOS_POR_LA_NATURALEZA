@@ -52,25 +52,25 @@
         ul.lista-ul--color.lista-ul--separador
           li 
             i.fas.fa-check-circle
-            |	Política Nacional de Biodiversidad.
+            |	Política nacional de biodiversidad.
           li 
             i.fas.fa-check-circle
-            |	Ley 1558 de 10 de Julio de 2012.
+            |	Ley 1558 de 10 de julio de 2012.
           li 
             i.fas.fa-check-circle
-            |	Decreto 2372 de 1 de Julio de 2010.
+            |	Decreto 2372 de 1 de julio de 2010.
           li 
             i.fas.fa-check-circle
             |	Decreto 1996 de 1999.
           li 
             i.fas.fa-check-circle
-            |	Sistema Nacional Ambiental (SINA) ley 99 de 1993.
+            |	Sistema nacional ambiental (SINA) ley 99 de 1993.
           li 
             i.fas.fa-check-circle
             |	Decreto 2811 de 1974.
           li 
             i.fas.fa-check-circle
-            |	Código Nacional de Recursos Naturales Renovables y de Protección al Medio Ambiente. Ley 0023 de 1973.
+            |	Código nacional de recursos naturales renovables y de protección al medio ambiente. Ley 0023 de 1973.
       
       .col-lg-12.mb-0
         p.text-center Partiendo de dicha normatividad, es importante resaltar el artículo 26 de la ley 1558 de 2012, el cual define el rol de guía turístico. 

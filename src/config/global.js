@@ -284,7 +284,7 @@ export default {
           nombre: 'Milady Tatiana Villamil Castellanos',
           cargo:
             'Responsable del ecosistema de recursos educativos digitales (RED)',
-          centro: 'Dirección General',
+          centro: 'Dirección General.',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
