@@ -1,7 +1,7 @@
 export default {
   global: {
-    componenteFormativo: 'Ecología y conducción de grupos turísticos',
-    descripcionCurso:
+    Name: 'Ecología y conducción de grupos turísticos',
+    Description:
       'La educación turística es clave para que los visitantes tengan una experiencia completa y enriquecedora en su viaje. Los guías de turismo te ayudan a conocer los destinos, la cultura, la gastronomía y la historia. Además, te enseñan a promover la comprensión y el respeto por el medio ambiente. Su trabajo contribuye a reactivar la economía del sector turístico.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
@@ -289,8 +289,7 @@ export default {
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro:
-            'Centro Para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico.',
+          centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
       ],
     },
@@ -300,18 +299,17 @@ export default {
         {
           nombre: 'Julio Hernán Beltrán Peñuela',
           cargo: 'Experta temático',
-          centro: 'Centro de Comercio y Servicios - Regional Caldas.',
+          centro: 'Centro de Comercio y Servicios - Regional Caldas',
         },
         {
           nombre: 'Mónica Patricia Osorio Martínez',
           cargo: 'Asesora pedagógica',
-          centro: 'Centro Agroindustrial - Regional Quindío.',
+          centro: 'Centro Agroindustrial - Regional Quindío',
         },
         {
           nombre: 'Gilberto Herrera Delgans',
           cargo: 'Evaluador instruccional',
-          centro:
-            'Centro Para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico.',
+          centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
       ],
     },
@@ -321,20 +319,17 @@ export default {
         {
           nombre: 'Eulises Orduz Amezquita',
           cargo: 'Diseñador de contenidos digitales',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico.',
+          centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
         {
-          nombre: 'Liborio De Jesús Castañeda Valencia',
-          cargo: 'Desarrollador <em>full stack junior</em>',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico.',
+          nombre: 'Álvaro Guillermo Araújo Angarita',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
         {
           nombre: 'Nelson Ivan Vera Briceño',
           cargo: 'Animador y productor audiovisual',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico.',
+          centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
         // {
         //   nombre: 'Nombre',
@@ -348,28 +343,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Carolina Coca Salazar',
+          nombre: 'Maria Fernanda Morales Angulo',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico.',
+          centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico.',
+          centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
         {
-          nombre: 'Juan Carlos Cardona Acosta',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico.',
+          nombre: 'Jonathan Adie Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
         {
           nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico.',
+          centro: 'Centro de Comercio y Servicios Regional Atlántico',
         },
       ],
     },
