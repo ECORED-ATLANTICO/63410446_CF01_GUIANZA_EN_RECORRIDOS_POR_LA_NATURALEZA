@@ -810,7 +810,7 @@
                   p Objetos naturales de gran belleza e interés, tal como los cristales, caracoles o fósiles, deben ser dejados en su lugar. La misma ética aplica a los artefactos culturales, que incluyen piedras con grabados, cabezas de flechas y hachas y ruinas de estructuras. En muchos países estos artefactos están protegidos por leyes y es ilegal el excavar, perturbar o remover cualquiera de estos recursos de los lugares públicos. Los lugares y artefactos arqueológicos son sagrados para la gente indígena.
   
       .col-lg-12
-        p.mb-2 Estos recursos nos ayudan a entender la historia natural de los humanos incluyendo los efectos de enfermedades, cambios climáticos y cambios en la fauna y sus poblaciones. El perturbar estos artefactos los saca de su contexto significativo y remueve un capítulo de una historia importante e interesante.
+        p.mb-2 Estos recursos nos ayudan a entender la historia natural de los humanos, incluyendo los efectos de enfermedades, cambios climáticos y cambios en la fauna y sus poblaciones. El perturbar estos artefactos los saca de su contexto significativo y remueve un capítulo de una historia importante e interesante.
         p <b>Fuente:</b> The National Outdoor Leadership School (NOLS) & Leave No Trace (LNT ).
   
 

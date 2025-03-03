@@ -33,7 +33,7 @@
     .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-down")
       .col-lg-12.mb-3
         p.mb-3 Los principios del programa "No Deje Rastro", basado y apoyado por investigaciones científicas desde sus comienzos, son una herramienta clara, consistente y práctica, recomendando técnicas simples y fáciles de aplicar.
-        p En la década de 1960, en los Estados Unidos de Norteamérica se produjo una explosión en la demanda para el uso de las áreas silvestres por parte de los habitantes de ese país con actividades como caminatas, excursiones y campismo. En 1924, el Servicio de Forestal de los Estados Unidos tenía una demanda de 4.6 millones de visitantes y en 1999 el uso era de 900 millones de usuarios. Cifras similares se registran en el Servicio de Parques Nacionales, con 33 millones en 1950 a 172 millones en 1970 y 287 millones de visitantes por año en 1999.
+        p En la década de 1960, en los Estados Unidos de Norteamérica se produjo una explosión en la demanda para el uso de las áreas silvestres por parte de los habitantes de ese país, con actividades como caminatas, excursiones y campismo. En 1924, el Servicio de Forestal de los Estados Unidos tenía una demanda de 4.6 millones de visitantes y en 1999 el uso era de 900 millones de usuarios. Cifras similares se registran en el Servicio de Parques Nacionales, con 33 millones en 1950 a 172 millones en 1970 y 287 millones de visitantes por año en 1999.
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .col-lg-7.mb-2

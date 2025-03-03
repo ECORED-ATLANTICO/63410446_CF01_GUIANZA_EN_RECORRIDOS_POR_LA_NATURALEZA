@@ -195,28 +195,28 @@ export default {
         },
         {
           id: 7,
-          texto: '¿Qué es la energía renovable?',
+          texto: '¿Cuál de los siguientes es un ejemplo de turismo cultural?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Energía que se agota fácilmente.',
+              texto: 'Visitar un parque de diversiones.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Energía proveniente de fuentes inagotables.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'Energía producida únicamente por el viento.',
+              texto: 'Hacer senderismo en una montaña.',
               esCorrecta: false,
             },
             {
+              id: 'c',
+              texto: 'Explorar sitios arqueológicos.',
+              esCorrecta: true,
+            },
+            {
               id: 'd',
-              texto: 'Energía generada en fábricas.',
+              texto: 'Nadar en una playa.',
               esCorrecta: false,
             },
           ],
@@ -225,78 +225,111 @@ export default {
         },
         {
           id: 8,
-          texto: '¿Cuál de estas es una fuente de energía no renovable?',
+          texto: '¿Qué es el patrimonio natural?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'El petróleo.', esCorrecta: true },
-            { id: 'b', texto: 'La luz solar.', esCorrecta: false },
-            { id: 'c', texto: 'El viento.', esCorrecta: false },
-            { id: 'd', texto: 'El agua.', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Un conjunto de sitios históricos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'La biodiversidad y paisajes de una región.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Solo los parques nacionales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Monumentos arquitectónicos de una región.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 9,
-          texto: '¿Qué es la deforestación?',
+          texto:
+            '¿Cuál de las siguientes es una característica del turismo ecológico?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'El aumento de la biodiversidad.',
+              texto: 'Favorece las zonas urbanas.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'La pérdida masiva de bosques.',
-              esCorrecta: true,
+              texto: 'Evita la interacción con la naturaleza.',
+              esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'El uso sostenible de recursos.',
+              texto: 'Promueve la conservación ambiental.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Incrementa la urbanización.',
               esCorrecta: false,
             },
-            { id: 'd', texto: 'La plantación de árboles.', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 10,
-          texto: '¿Qué recurso natural es esencial para la vida?',
+          texto: '¿Qué establece el Decreto Ley 2811 de 1974 en Colombia?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'El oro.', esCorrecta: false },
-            { id: 'b', texto: 'El agua.', esCorrecta: true },
-            { id: 'c', texto: 'El carbón.', esCorrecta: false },
-            { id: 'd', texto: 'El petróleo.', esCorrecta: false },
+            { id: 'a', texto: 'Reglas para la minería', esCorrecta: false },
+            {
+              id: 'b',
+              texto: 'Normas de protección de recursos naturales.',
+              esCorrecta: true,
+            },
+            { id: 'c', texto: 'Códigos de construcción.', esCorrecta: false },
+            {
+              id: 'd',
+              texto: 'Normas de comercio exterior.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 11,
-          texto: '¿Qué efecto tiene la contaminación en los ecosistemas?',
+          texto: '¿Cuál es la función de un parque nacional?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Mejora la calidad del aire.',
+              texto: 'Facilitar la expansión urbana.',
               esCorrecta: false,
             },
-            { id: 'b', texto: 'Aumenta la biodiversidad.', esCorrecta: false },
             {
-              id: 'c',
-              texto: 'Daña a las especies y sus hábitats.',
+              id: 'b',
+              texto: 'Preservar el medio ambiente y la biodiversidad.',
               esCorrecta: true,
             },
             {
+              id: 'c',
+              texto: 'Aumentar las áreas para construcción.',
+              esCorrecta: false,
+            },
+            {
               id: 'd',
-              texto: 'Fomenta el crecimiento de plantas.',
+              texto: 'Promover la agricultura intensiva.',
               esCorrecta: false,
             },
           ],
@@ -305,46 +338,60 @@ export default {
         },
         {
           id: 12,
-          texto: '¿Cuál es un beneficio del reciclaje?',
+          texto: '¿Qué es un área protegida?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Disminuye la contaminación.', esCorrecta: true },
-            { id: 'b', texto: 'Aumenta los residuos.', esCorrecta: false },
             {
-              id: 'c',
-              texto: 'Elimina los recursos naturales.',
+              id: 'a',
+              texto: 'Un espacio designado para la explotación minera.',
               esCorrecta: false,
             },
-            { id: 'd', texto: 'Fomenta la deforestación.', esCorrecta: false },
+            {
+              id: 'b',
+              texto:
+                'Una región con restricciones para preservar la naturaleza.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Una zona para el turismo masivo.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Una región urbana con leyes ambientales especiales.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 13,
-          texto: '¿Qué son los ecosistemas?',
+          texto: '¿Cuál es el principal objetivo de la legislación ambiental?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Áreas urbanas con edificios.',
+              texto: 'Desarrollar la infraestructura urbana.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Comunidades de organismos y su entorno.',
+              texto:
+                'Establecer normas de conservación y protección ambiental.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Regiones de un solo tipo de planta.',
+              texto: 'Aumentar la industria turística.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Cuerpos de agua en la Tierra.',
+              texto: 'Regular la caza y pesca exclusivamente.',
               esCorrecta: false,
             },
           ],
@@ -353,28 +400,28 @@ export default {
         },
         {
           id: 14,
-          texto: '¿Qué es el efecto invernadero?',
+          texto: '¿Qué filósofo es conocido como el “padre de la ecología”?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Un fenómeno causado por la acumulación de gases.',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'El enfriamiento rápido de la atmósfera.',
+              texto: 'Aristóteles',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Alexander von Humboldt',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'La pérdida de biodiversidad.',
+              texto: 'Sócrates',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Un método de cultivo intensivo.',
+              texto: 'Descartes',
               esCorrecta: false,
             },
           ],
@@ -383,46 +430,60 @@ export default {
         },
         {
           id: 15,
-          texto: '¿Qué acción ayuda a combatir el cambio climático?',
+          texto:
+            '¿Cuál es uno de los principios de la metodología “No Deje Rastro”?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Usar transporte público.', esCorrecta: true },
             {
-              id: 'b',
-              texto: 'Incrementar el consumo de plástico.',
+              id: 'a',
+              texto: 'Dejar las sobras de comida en el lugar.',
               esCorrecta: false,
             },
-            { id: 'c', texto: 'Desperdiciar agua.', esCorrecta: false },
-            { id: 'd', texto: 'Deforestar bosques.', esCorrecta: false },
+            {
+              id: 'b',
+              texto: 'Minimizar el impacto en el medio ambiente.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Recolectar flora y fauna local.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Crear senderos improvisados.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 16,
-          texto: '¿Qué es la huella de carbono?',
+          texto: '¿Qué significa “Planifica y prepárate” en “No Deje Rastro”?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'El rastro que dejan los animales.',
+              texto: 'Ir a la aventura sin guía',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'La medida de gases de efecto invernadero emitidos.',
+              texto:
+                'Planear y llevar equipo adecuado para reducir el impacto ambiental.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'El tamaño de las plantas en un bosque.',
+              texto: 'Llevar solo comida enlatada.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'La cantidad de energía renovable usada.',
+              texto: 'Viajar en grupo numeroso.',
               esCorrecta: false,
             },
           ],
@@ -431,24 +492,25 @@ export default {
         },
         {
           id: 17,
-          texto: '¿Qué es un recurso no renovable?',
+          texto:
+            '¿Cuál es la mejor práctica para los desechos en zonas naturales?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Un recurso que puede regenerarse.',
+              texto: 'Enterrarlos.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Un recurso que se agota con el uso.',
-              esCorrecta: true,
+              texto: 'Llevarlos de regreso para disponerlos adecuadamente.',
+              esCorrecta: false,
             },
-            { id: 'c', texto: 'Un recurso infinito.', esCorrecta: false },
+            { id: 'c', texto: 'Un recurso infinito.', esCorrecta: true },
             {
               id: 'd',
-              texto: 'Un recurso utilizado en energías renovables.',
+              texto: 'Quemarlos.',
               esCorrecta: false,
             },
           ],
@@ -457,24 +519,25 @@ export default {
         },
         {
           id: 18,
-          texto: '¿Por qué es importante reducir el consumo de plástico?',
+          texto:
+            '¿Por qué es importante mantener los senderos en zonas naturales?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Para disminuir la contaminación.',
-              esCorrecta: true,
+              texto: 'Facilita la creación de nuevos caminos.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Para fomentar su producción.',
-              esCorrecta: false,
+              texto: 'Reduce la erosión y el daño a la vegetación.',
+              esCorrecta: true,
             },
-            { id: 'c', texto: 'Porque es barato.', esCorrecta: false },
+            { id: 'c', texto: 'Ayuda a la reforestación.', esCorrecta: false },
             {
               id: 'd',
-              texto: 'Para aumentar los desechos.',
+              texto: 'Crea espacios de reunión.',
               esCorrecta: false,
             },
           ],
@@ -483,24 +546,28 @@ export default {
         },
         {
           id: 19,
-          texto: '¿Qué es un ecosistema marino?',
+          texto: '¿Qué significa “No Deje Rastro”?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Un ecosistema ubicado en zonas desérticas.',
+              texto: 'Limpiar solo cuando sea necesario.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Un ecosistema acuático de agua salada.',
+              texto: 'Minimizar la huella humana en el ambiente.',
               esCorrecta: true,
             },
-            { id: 'c', texto: 'Un ecosistema terrestre.', esCorrecta: false },
+            {
+              id: 'c',
+              texto: 'Solo dejar residuos biodegradables.',
+              esCorrecta: false,
+            },
             {
               id: 'd',
-              texto: 'Un ecosistema de agua dulce.',
+              texto: 'Crear refugios en áreas naturales',
               esCorrecta: false,
             },
           ],
@@ -509,22 +576,27 @@ export default {
         },
         {
           id: 20,
-          texto: '¿Qué significa reutilizar?',
+          texto: '¿Qué significa "sostenibilidad" en un contexto ecológico?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Desechar un material usado.',
+              texto: 'Maximizar el uso de recursos para obtener beneficios.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Dar un nuevo uso a algo en vez de tirarlo.',
+              texto:
+                'Utilizar recursos de manera que se mantengan a largo plazo.',
               esCorrecta: true,
             },
-            { id: 'c', texto: 'Consumir más recursos.', esCorrecta: false },
-            { id: 'd', texto: 'Comprar un producto nuevo.', esCorrecta: false },
+            {
+              id: 'c',
+              texto: 'Priorizar el crecimiento económico.',
+              esCorrecta: false,
+            },
+            { id: 'd', texto: 'Producir más desechos.', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',

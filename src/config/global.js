@@ -298,7 +298,7 @@ export default {
       autores: [
         {
           nombre: 'Julio Hernán Beltrán Peñuela',
-          cargo: 'Experta temático',
+          cargo: 'Experto temático',
           centro: 'Centro de Comercio y Servicios - Regional Caldas',
         },
         {
