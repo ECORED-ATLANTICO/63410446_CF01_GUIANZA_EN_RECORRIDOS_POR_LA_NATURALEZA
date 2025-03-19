@@ -307,9 +307,10 @@ export default {
           centro: 'Centro Agroindustrial - Regional Quindío',
         },
         {
-          nombre: 'Gilberto Herrera Delgans',
+          nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Evaluador instruccional',
-          centro: 'Centro de Comercio y Servicios Regional Atlántico',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },

@@ -16,10 +16,8 @@
       p Conducir grupos de turistas requiere una planificación y ejecución precisas de cada detalle del itinerario, asegurando que los visitantes reciban apoyo constante y disfruten plenamente de su recorrido por la naturaleza. Bienvenido a este componente formativo:
       
       .video.mb-5
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/6AGqGgSEQ2g?si=ErpkvXxiI8TMyktw" title="Ecología y conducción de grupos turísticos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ck6CRs8SRJg" title="Ecología y conducción de grupos turísticos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
-            
-  
 </template>
 
 <script>

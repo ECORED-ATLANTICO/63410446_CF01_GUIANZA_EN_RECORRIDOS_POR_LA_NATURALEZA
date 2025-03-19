@@ -504,10 +504,14 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Llevarlos de regreso para disponerlos adecuadamente.',
+              texto: 'Dejarlos en un rincón del sitio.',
               esCorrecta: false,
             },
-            { id: 'c', texto: 'Un recurso infinito.', esCorrecta: true },
+            {
+              id: 'c',
+              texto: 'Llevarlos de regreso para disponerlos adecuadamente.',
+              esCorrecta: true,
+            },
             {
               id: 'd',
               texto: 'Quemarlos.',

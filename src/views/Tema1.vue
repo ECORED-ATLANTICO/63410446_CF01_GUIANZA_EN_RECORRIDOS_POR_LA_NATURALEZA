@@ -368,7 +368,7 @@
           )
           .bloque-texto-g__texto.p-4
             h4.mb-2 Clases de Contaminación <br>
-            p Todo lo que existe en la naturaleza puede ser alterado o destruido por la reacción de distintos contaminantes, teniendo en cuenta:
+            p Todo lo que existe en la naturaleza puede ser alterado o destruido por la reacción de distintos contaminantes, teniendo en cuenta:.h-100
             ul.lista-ul--color
               li 
                 i.fas.fa-check-circle
@@ -519,37 +519,37 @@
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
-                  .h2 
+                  .h2 a
                 p Los sistema de parques nacionales naturales.
 
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
-                  .h2 
+                  .h2 b
                 p Las reservas forestales protectoras.
 
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
-                  .h2 
+                  .h2 c
                 p Los parques naturales regionales.
 
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
-                  .h2 
+                  .h2 d
                 p Los distritos de manejo integrado.
 
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
-                  .h2 
+                  .h2 e
                 p Los distritos de conservación de suelos.
 
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
-                  .h2 
+                  .h2 f
                 p Las áreas de recreación
                 
         h4.mb-4.text-center Áreas protegidas privadas
@@ -558,7 +558,7 @@
             .col-md-6.col-lg-4.mb-4
               .tarjeta-numerada.bg-01.p-5.h-100
                 .tarjeta-numerada__numero
-                  .h2 
+                  .h2 g
                 p Las reservas naturales de la sociedad civil
 </template>
 
